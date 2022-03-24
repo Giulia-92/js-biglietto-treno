@@ -16,8 +16,9 @@ if (sceltac =='p') {
 } else if (sceltac == 'g'){
     cucina = 3;
     prompt('Hai scelto il modello Delux');
+}else{
+    prompt('codice non valido');
 }
-
 
 
 
@@ -34,5 +35,7 @@ if (sceltas =='p') {
 } else if (sceltas == 'g'){
     salotto = 3;
     prompt('Hai scelto il modello Delux');
+}else{
+    prompt('codice non valido');
 }
 
