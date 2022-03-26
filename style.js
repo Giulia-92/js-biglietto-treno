@@ -26,3 +26,4 @@ if (età<=minori){
     prompt('Il prezzo del Viaggio è: '+prezzo+'€');
 }
 
+document.getElementById('il prezzo del viaggio').innerHTML =  prezzo + "€";
